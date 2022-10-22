@@ -116,9 +116,9 @@ main {
     padding: 10px 20px;
     background-color: var(--black);
     color: var(--white);
-    cursor: pointer;
     font-size: 20px;
     transition: background-color 0.2s ease, color 0.2s ease;
+    cursor: pointer;
 }
 
 .hero_content button:hover {
@@ -168,7 +168,6 @@ main {
     border-radius: 10px;
     background-color: var(--black);
     color: var(--white);
-    margin-right: 20px;
     margin-bottom: 20px;
     padding: 20px;
     display: flex;
@@ -239,6 +238,7 @@ main {
 @media screen and (min-width: 600px) {
     .contributor {
         width: 350px;
+        margin-right: 20px;
     }
 
     .hero_section {
