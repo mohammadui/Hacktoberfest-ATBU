@@ -162,7 +162,7 @@ main {
 
 .contributor {
     position: relative;
-    min-width: 350px;
+    min-width: 300px;
     width: 100%;
     min-height: 200px;
     border-radius: 10px;
