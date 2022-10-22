@@ -39,6 +39,7 @@ nav {
     width: 80px;
     height: 40px;
     overflow: hidden;
+    cursor: pointer;
 }
 
 .logo img {
@@ -90,6 +91,7 @@ main {
 .hero_content h1 {
     font-size: 36px;
     margin-bottom: 20px;
+    text-transform: uppercase;
 }
 
 .hero_content p {
